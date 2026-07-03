@@ -1,6 +1,6 @@
 # Olá, Bem Vindo ao meu perfil do GitHub! 👋
 
-
+<br><br>
 
 ## 💫 About Me:
 Meu nome é Matheus Lopes e, atualmente, sou estudante de **Engenharia de Software** na Universidade de Ribeirão Preto (Unaerp).<br>Sou apaixonado por Desenvolvimento WEB e estou me aprofundando na área com as linguagens e ferramentas da área fullstack, <br>desenvolvendo projetos e assistindo aulas de cursos de programadores experientes. Atualmente, estou trabalhando na área de <br>Suporte de TI em uma escola do estado de SP, mas procuro oportunidades na área de desenvolvimento para começar minha carreira.<br>
