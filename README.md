@@ -1,6 +1,12 @@
-## Olá, Bem Vindo ao meu perfil do GitHub! 👋
+# Olá, Bem Vindo ao meu perfil do GitHub! 👋
 
-Meu nome é Matheus Lopes e, atualmente, sou estudante de ## Engenharia de Software ## na Universidade de Ribeirão Preto (Unaerp).
+
+
+## Sobre mim:
+Meu nome é Matheus Lopes e, atualmente, sou estudante de **Engenharia de Software** na Universidade de Ribeirão Preto (Unaerp).
+Sou apaixonado por Desenvolvimento WEB e estou me aprofundando na área com as linguagens e ferramentas da área fullstack, 
+desenvolvendo projetos e assistindo aulas de cursos de programadores experientes. Atualmente, estou trabalhando na área de 
+Suporte de TI em uma escola do estado de SP, mas procuro oportunidades na área de desenvolvimento para começar minha carreira.
 <!--
 **Dev-theusma-lo/Dev-theusma-lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
